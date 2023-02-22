@@ -28,7 +28,7 @@ public class Lab {
      *      for part 2, write
      *          i < end;
      *      for part 3, write
-     *          i++
+     *          i++d
      *      within the for loop block, let's have the following code:
      *          buildingString = buildingString + i + " ";
      *      this will add the current value of i to an already existing variable 'sum', so that we can get the sum of
